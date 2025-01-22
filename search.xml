@@ -4,6 +4,83 @@
   
     
     <entry>
+      <title>这是一篇HMI的博文</title>
+      <link href="/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87HMI%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87HMI%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇触摸屏的博文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> HMI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这是一篇机械手的文章</title>
+      <link href="/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%9C%BA%E6%A2%B0%E6%89%8B%E7%9A%84%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%9C%BA%E6%A2%B0%E6%89%8B%E7%9A%84%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> -控制器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -标签1 -标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这是一篇新控制器的博文</title>
+      <link href="/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/2025/01/22/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇控制器的博文</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 控制器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签1 </tag>
+            
+            <tag> 标签2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2025/01/21/hello-world/"/>
       <url>/2025/01/21/hello-world/</url>
