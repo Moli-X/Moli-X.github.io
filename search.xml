@@ -35,6 +35,37 @@
     
     
     <entry>
+      <title>安装AnZhiYu主题并个性化配置</title>
+      <link href="/2025/03/13/%E5%AE%89%E8%A3%85AnZhiYu%E4%B8%BB%E9%A2%98%E5%B9%B6%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE/"/>
+      <url>/2025/03/13/%E5%AE%89%E8%A3%85AnZhiYu%E4%B8%BB%E9%A2%98%E5%B9%B6%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="安装AnZhiYu主题并个性化配置"><a href="#安装AnZhiYu主题并个性化配置" class="headerlink" title="安装AnZhiYu主题并个性化配置"></a>安装AnZhiYu主题并个性化配置</h1><h2 id="1-主题介绍"><a href="#1-主题介绍" class="headerlink" title="1. 主题介绍"></a>1. 主题介绍</h2><p>AnZhiYu是一款简洁优雅的Hexo主题，具有以下特点：</p><ul><li>响应式设计</li><li>多种配色方案</li><li>丰富的插件支持</li><li>高度可定制化</li></ul><h2 id="2-安装步骤"><a href="#2-安装步骤" class="headerlink" title="2. 安装步骤"></a>2. 安装步骤</h2><h3 id="2-1-安装主题"><a href="#2-1-安装主题" class="headerlink" title="2.1 安装主题"></a>2.1 安装主题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu</span><br></pre></td></tr></table></figure><h3 id="2-2-修改配置文件"><a href="#2-2-修改配置文件" class="headerlink" title="2.2 修改配置文件"></a>2.2 修改配置文件</h3><p>在<code>_config.yml</code>中添加：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">theme:</span> <span class="string">anzhiyu</span></span><br></pre></td></tr></table></figure><h2 id="3-个性化配置"><a href="#3-个性化配置" class="headerlink" title="3. 个性化配置"></a>3. 个性化配置</h2><h3 id="3-1-修改主题颜色"><a href="#3-1-修改主题颜色" class="headerlink" title="3.1 修改主题颜色"></a>3.1 修改主题颜色</h3><p>在<code>themes/anzhiyu/_config.yml</code>中：</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">color:</span></span><br><span class="line">  <span class="attr">primary:</span> <span class="string">&#x27;#3eaf7c&#x27;</span></span><br><span class="line">  <span class="attr">secondary:</span> <span class="string">&#x27;#2d96bd&#x27;</span></span><br></pre></td></tr></table></figure><h3 id="3-2-添加社交链接"><a href="#3-2-添加社交链接" class="headerlink" title="3.2 添加社交链接"></a>3.2 添加社交链接</h3><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">social:</span></span><br><span class="line">  <span class="attr">GitHub:</span> <span class="string">https://github.com/Moli-X</span></span><br><span class="line">  <span class="attr">Twitter:</span> <span class="string">https://twitter.com/Moli-X</span></span><br></pre></td></tr></table></figure><h2 id="4-常见问题"><a href="#4-常见问题" class="headerlink" title="4. 常见问题"></a>4. 常见问题</h2><h3 id="4-1-常用命令"><a href="#4-1-常用命令" class="headerlink" title="4.1 常用命令"></a>4.1 常用命令</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 本地预览</span></span><br><span class="line">hexo clean &amp;&amp; hexo server</span><br><span class="line"></span><br><span class="line"><span class="comment"># 推送更新上线</span></span><br><span class="line">hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy</span><br></pre></td></tr></table></figure><h3 id="4-2-如何更新主题？"><a href="#4-2-如何更新主题？" class="headerlink" title="4.2 如何更新主题？"></a>4.2 如何更新主题？</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> themes/anzhiyu</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure><h3 id="4-3-如何自定义样式？"><a href="#4-3-如何自定义样式？" class="headerlink" title="4.3 如何自定义样式？"></a>4.3 如何自定义样式？</h3><p>在<code>source/css/custom.css</code>中添加自定义样式</p><h2 id="5-参考资源"><a href="#5-参考资源" class="headerlink" title="5. 参考资源"></a>5. 参考资源</h2><ul><li><a href="https://anzhiyu.cn/">AnZhiYu官方文档</a></li><li><a href="https://hexo.io/">Hexo官方文档</a></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 其他 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 主题 </tag>
+            
+            <tag> AnZhiYu </tag>
+            
+            <tag> 配置 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>工业机器人取放料程序详解</title>
       <link href="/2025/03/13/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%96%E6%94%BE%E6%96%99%E7%A8%8B%E5%BA%8F%E8%AF%A6%E8%A7%A3/"/>
       <url>/2025/03/13/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%96%E6%94%BE%E6%96%99%E7%A8%8B%E5%BA%8F%E8%AF%A6%E8%A7%A3/</url>
@@ -82,9 +113,9 @@
       
         <tags>
             
-            <tag> 工业机器人 </tag>
-            
             <tag> 机器人编程 </tag>
+            
+            <tag> 工业机器人 </tag>
             
             <tag> 智能制造 </tag>
             
@@ -117,9 +148,9 @@
             
             <tag> 智能制造 </tag>
             
-            <tag> 台达 </tag>
-            
             <tag> HMI </tag>
+            
+            <tag> 台达 </tag>
             
             <tag> 工业自动化 </tag>
             
