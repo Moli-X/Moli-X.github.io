@@ -49,9 +49,9 @@
       
         <tags>
             
-            <tag> 人机界面 </tag>
-            
             <tag> 触摸屏编程 </tag>
+            
+            <tag> 人机界面 </tag>
             
             <tag> 自动化控制 </tag>
             
@@ -109,9 +109,9 @@
       
         <tags>
             
-            <tag> 机器人编程 </tag>
-            
             <tag> 工业自动化 </tag>
+            
+            <tag> 机器人编程 </tag>
             
             <tag> 机器人控制 </tag>
             
@@ -132,7 +132,7 @@
       <link href="/2025/01/22/article/theme/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/"/>
       <url>/2025/01/22/article/theme/%E5%AE%89%E7%9F%A5%E9%B1%BC%E4%B8%BB%E9%A2%98%E6%95%99%E7%A8%8B/</url>
       
-        <content type="html"><![CDATA[<h1 id="安之鱼主题教程"><a href="#安之鱼主题教程" class="headerlink" title="安之鱼主题教程"></a>安之鱼主题教程</h1> <span><a class="btn-anzhiyu green larger" href="https://docs.anheyu.com/intro.html"   title="官方文档"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>官方文档</span></a><a class="btn-anzhiyu larger" href="https://blog.anheyu.com/posts/d50a.html"   title="主题示例"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>主题示例</span></a><a class="btn-anzhiyu blue larger" href="https://blog.anheyu.com/posts/2785.html"   title="图床方案"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>图床方案</span></a><a class="btn-anzhiyu pink larger" href="https://blog.anheyu.com/posts/c3d3.html"   title="音乐界面"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>音乐界面</span></a><a class="btn-anzhiyu red larger" href="https://blog.anheyu.com/posts/a76e.html"   title="自建音乐"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>自建音乐</span></a><a class="btn-anzhiyu purple larger" href="https://blog.anheyu.com/posts/c248.html"   title="即刻短文"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>即刻短文</span></a><a class="btn-anzhiyu orange larger" href="https://blog.anheyu.com/posts/39a9.html"   title="全新卡片"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>全新卡片</span></a><a class="btn-anzhiyu green larger" href="https://blog.anheyu.com/posts/72ea.html"   title="图床使用"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>图床使用</span></a><a class="btn-anzhiyu green larger" href="https://blog.anheyu.com/posts/52d8.html"   title="同款动画"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>同款动画</span></a><a class="btn-anzhiyu blue larger" href="https://blog.anheyu.com/posts/2785.html"   title="朋友圈部署"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>朋友圈部署</span></a></span><h1 id="Hexo命令"><a href="#Hexo命令" class="headerlink" title="Hexo命令"></a>Hexo命令</h1><h2 id="1-常用命令"><a href="#1-常用命令" class="headerlink" title="1 常用命令"></a>1 常用命令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 本地预览</span></span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line"><span class="comment"># 推送更新上线</span></span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure><h2 id="2-如何更新主题？"><a href="#2-如何更新主题？" class="headerlink" title="2 如何更新主题？"></a>2 如何更新主题？</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> themes/anzhiyu</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure><h2 id="3-如何自定义样式？"><a href="#3-如何自定义样式？" class="headerlink" title="3 如何自定义样式？"></a>3 如何自定义样式？</h2><p>在<code>source/css/custom.css</code>中添加自定义样式</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="安之鱼主题教程"><a href="#安之鱼主题教程" class="headerlink" title="安之鱼主题教程"></a>安之鱼主题教程</h1> <span><a class="btn-anzhiyu green larger" href="https://docs.anheyu.com/intro.html"   title="官方文档"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>官方文档</span></a><a class="btn-anzhiyu larger" href="https://blog.anheyu.com/posts/d50a.html"   title="主题示例"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>主题示例</span></a><a class="btn-anzhiyu blue larger" href="https://blog.anheyu.com/posts/2785.html"   title="图床方案"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>图床方案</span></a><a class="btn-anzhiyu pink larger" href="https://blog.anheyu.com/posts/c3d3.html"   title="音乐界面"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>音乐界面</span></a><a class="btn-anzhiyu red larger" href="https://blog.anheyu.com/posts/a76e.html"   title="自建音乐"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>自建音乐</span></a><a class="btn-anzhiyu purple larger" href="https://blog.anheyu.com/posts/c248.html"   title="即刻短文"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>即刻短文</span></a><a class="btn-anzhiyu orange larger" href="https://blog.anheyu.com/posts/39a9.html"   title="全新卡片"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>全新卡片</span></a><a class="btn-anzhiyu green larger" href="https://blog.anheyu.com/posts/72ea.html"   title="图床使用"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>图床使用</span></a><a class="btn-anzhiyu green larger" href="https://blog.anheyu.com/posts/52d8.html"   title="同款动画"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>同款动画</span></a><a class="btn-anzhiyu blue larger" href="https://blog.anheyu.com/posts/2785.html"   title="朋友圈部署"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>朋友圈部署</span></a><a class="btn-anzhiyu orange larger" href="https://www.bilibili.com/video/BV1Cv4y1n7FW/?spm_id_from=333.999.0.0&vd_source=4d9717102296e4b7a60ecdfad55ae2dd"   title="图标配置"><i class="anzhiyufont anzhiyu-icon-circle-arrow-right"></i><span>图标配置</span></a></span># Hexo命令## 1 常用命令<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 本地预览</span></span><br><span class="line">hexo cl; hexo s</span><br><span class="line"></span><br><span class="line"><span class="comment"># 推送更新上线</span></span><br><span class="line">hexo cl; hexo g; hexo d</span><br></pre></td></tr></table></figure>## 2 如何更新主题？<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> themes/anzhiyu</span><br><span class="line">git pull</span><br></pre></td></tr></table></figure>## 3 如何自定义样式？在`source/css/custom.css`中添加自定义样式]]></content>
       
       
       <categories>
@@ -196,15 +196,15 @@
       
         <tags>
             
-            <tag> 工业自动化 </tag>
+            <tag> 人机界面 </tag>
             
             <tag> 台达 </tag>
             
             <tag> HMI </tag>
             
-            <tag> 触摸屏 </tag>
+            <tag> 工业自动化 </tag>
             
-            <tag> 人机界面 </tag>
+            <tag> 触摸屏 </tag>
             
             <tag> 台达DOP </tag>
             
