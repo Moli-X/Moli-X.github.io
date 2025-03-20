@@ -153,33 +153,6 @@
     
     
     <entry>
-      <title>台达触摸屏在工业自动化中的应用</title>
-      <link href="/2025/01/22/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
-      <url>/2025/01/22/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
-      
-        <content type="html"><![CDATA[<h1 id="台达触摸屏在工业自动化中的应用"><a href="#台达触摸屏在工业自动化中的应用" class="headerlink" title="台达触摸屏在工业自动化中的应用"></a>台达触摸屏在工业自动化中的应用</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>在现代工业自动化系统中，人机界面（HMI）扮演着至关重要的角色。作为工业自动化领域的领先品牌，台达电子（Delta Electronics）推出的触摸屏产品以其卓越的性能和可靠性，在众多工业应用中广受好评。</p><h2 id="台达触摸屏产品概述"><a href="#台达触摸屏产品概述" class="headerlink" title="台达触摸屏产品概述"></a>台达触摸屏产品概述</h2><h3 id="产品系列"><a href="#产品系列" class="headerlink" title="产品系列"></a>产品系列</h3><p>台达触摸屏产品线丰富，主要包含以下系列：</p><table><thead><tr><th>系列</th><th>特点</th><th>适用场景</th></tr></thead><tbody><tr><td>DOP-100</td><td>入门级产品，性价比高</td><td>小型设备监控</td></tr><tr><td>DOP-B</td><td>中端产品，功能全面</td><td>中型生产线控制</td></tr><tr><td>DOP-W</td><td>高端产品，支持多语言和复杂应用</td><td>大型自动化系统</td></tr></tbody></table><h3 id="技术参数"><a href="#技术参数" class="headerlink" title="技术参数"></a>技术参数</h3><ul><li>屏幕尺寸：7”-15”</li><li>分辨率：800x480 - 1920x1080</li><li>处理器：ARM Cortex-A8</li><li>内存：128MB - 512MB</li><li>存储：256MB - 1GB</li></ul><h2 id="主要功能特点"><a href="#主要功能特点" class="headerlink" title="主要功能特点"></a>主要功能特点</h2><ol><li>高分辨率触摸屏</li><li>强大的数据处理能力</li><li>丰富的通讯接口</li><li>直观的编程软件</li><li>可靠的工业级设计</li></ol><h2 id="典型应用场景"><a href="#典型应用场景" class="headerlink" title="典型应用场景"></a>典型应用场景</h2><ul><li>生产线监控</li><li>设备状态显示</li><li>参数设置与调整</li><li>报警信息管理</li><li>数据采集与分析</li></ul><h2 id="编程与配置方法"><a href="#编程与配置方法" class="headerlink" title="编程与配置方法"></a>编程与配置方法</h2><p>台达提供DOPSoft编程软件，支持：</p><ul><li>图形化界面设计</li><li>数据标签管理</li><li>报警系统配置</li><li>历史数据记录</li><li>远程监控功能</li></ul><h2 id="维护与故障排除"><a href="#维护与故障排除" class="headerlink" title="维护与故障排除"></a>维护与故障排除</h2><p>常见问题及解决方法：</p><ol><li>触摸屏无响应：检查电源和通讯连接</li><li>显示异常：检查分辨率和刷新率设置</li><li>数据丢失：定期备份项目文件</li><li>通讯故障：检查协议设置和接线</li></ol><h2 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a>总结与展望</h2><p>台达触摸屏凭借其出色的性能和可靠性，在工业自动化领域占据重要地位。随着工业4.0的发展，台达将继续推出更多创新产品，为智能制造提供强有力的支持。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 触摸屏 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 台达 </tag>
-            
-            <tag> HMI </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>色标补偿功能块实现详解</title>
       <link href="/2025/01/22/article/automation/controller/%E8%89%B2%E6%A0%87%E8%A1%A5%E5%81%BF%E5%8A%9F%E8%83%BD%E5%9D%97%E5%AE%9E%E7%8E%B0%E8%AF%A6%E8%A7%A3/"/>
       <url>/2025/01/22/article/automation/controller/%E8%89%B2%E6%A0%87%E8%A1%A5%E5%81%BF%E5%8A%9F%E8%83%BD%E5%9D%97%E5%AE%9E%E7%8E%B0%E8%AF%A6%E8%A7%A3/</url>
@@ -199,6 +172,33 @@
             <tag> 补偿 </tag>
             
             <tag> 色标抓取 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>台达触摸屏在工业自动化中的应用</title>
+      <link href="/2025/01/22/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
+      <url>/2025/01/22/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="台达触摸屏在工业自动化中的应用"><a href="#台达触摸屏在工业自动化中的应用" class="headerlink" title="台达触摸屏在工业自动化中的应用"></a>台达触摸屏在工业自动化中的应用</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>在现代工业自动化系统中，人机界面（HMI）扮演着至关重要的角色。作为工业自动化领域的领先品牌，台达电子（Delta Electronics）推出的触摸屏产品以其卓越的性能和可靠性，在众多工业应用中广受好评。</p><h2 id="台达触摸屏产品概述"><a href="#台达触摸屏产品概述" class="headerlink" title="台达触摸屏产品概述"></a>台达触摸屏产品概述</h2><h3 id="产品系列"><a href="#产品系列" class="headerlink" title="产品系列"></a>产品系列</h3><p>台达触摸屏产品线丰富，主要包含以下系列：</p><table><thead><tr><th>系列</th><th>特点</th><th>适用场景</th></tr></thead><tbody><tr><td>DOP-100</td><td>入门级产品，性价比高</td><td>小型设备监控</td></tr><tr><td>DOP-B</td><td>中端产品，功能全面</td><td>中型生产线控制</td></tr><tr><td>DOP-W</td><td>高端产品，支持多语言和复杂应用</td><td>大型自动化系统</td></tr></tbody></table><h3 id="技术参数"><a href="#技术参数" class="headerlink" title="技术参数"></a>技术参数</h3><ul><li>屏幕尺寸：7”-15”</li><li>分辨率：800x480 - 1920x1080</li><li>处理器：ARM Cortex-A8</li><li>内存：128MB - 512MB</li><li>存储：256MB - 1GB</li></ul><h2 id="主要功能特点"><a href="#主要功能特点" class="headerlink" title="主要功能特点"></a>主要功能特点</h2><ol><li>高分辨率触摸屏</li><li>强大的数据处理能力</li><li>丰富的通讯接口</li><li>直观的编程软件</li><li>可靠的工业级设计</li></ol><h2 id="典型应用场景"><a href="#典型应用场景" class="headerlink" title="典型应用场景"></a>典型应用场景</h2><ul><li>生产线监控</li><li>设备状态显示</li><li>参数设置与调整</li><li>报警信息管理</li><li>数据采集与分析</li></ul><h2 id="编程与配置方法"><a href="#编程与配置方法" class="headerlink" title="编程与配置方法"></a>编程与配置方法</h2><p>台达提供DOPSoft编程软件，支持：</p><ul><li>图形化界面设计</li><li>数据标签管理</li><li>报警系统配置</li><li>历史数据记录</li><li>远程监控功能</li></ul><h2 id="维护与故障排除"><a href="#维护与故障排除" class="headerlink" title="维护与故障排除"></a>维护与故障排除</h2><p>常见问题及解决方法：</p><ol><li>触摸屏无响应：检查电源和通讯连接</li><li>显示异常：检查分辨率和刷新率设置</li><li>数据丢失：定期备份项目文件</li><li>通讯故障：检查协议设置和接线</li></ol><h2 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a>总结与展望</h2><p>台达触摸屏凭借其出色的性能和可靠性，在工业自动化领域占据重要地位。随着工业4.0的发展，台达将继续推出更多创新产品，为智能制造提供强有力的支持。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 触摸屏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 台达 </tag>
+            
+            <tag> HMI </tag>
             
         </tags>
       
