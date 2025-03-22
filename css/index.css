@@ -11108,12 +11108,6 @@ h1.page-title + .tag-cloud-list {
   -ms-transition: 0.6s;
   transition: 0.6s;
   overflow: hidden;
-  -webkit-animation: header 5s linear forwards;
-  -moz-animation: header 5s linear forwards;
-  -o-animation: header 5s linear forwards;
-  -ms-animation: header 5s linear forwards;
-  animation: header 5s linear forwards;
-  animation-timeline: view();
   background-color: transparent;
 }
 #page-header.post-bg #nav {
@@ -15205,6 +15199,15 @@ blockquote {
 }
 .post-tools .post-tools-left {
   width: auto;
+}
+#post .tag_share {
+  margin-bottom: 2rem;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
 }
 .relatedPosts {
   margin-top: 1.25rem;
