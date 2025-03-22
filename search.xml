@@ -89,33 +89,6 @@
     
     
     <entry>
-      <title>工业机器人编程指南</title>
-      <link href="/posts/article/automation/scara/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/"/>
-      <url>/posts/article/automation/scara/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/</url>
-      
-        <content type="html"><![CDATA[<h1 id="工业机器人编程指南"><a href="#工业机器人编程指南" class="headerlink" title="工业机器人编程指南"></a>工业机器人编程指南</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>工业机器人是现代智能制造的核心设备之一。本文将详细介绍工业机器人编程的基础知识和实用技巧。</p><h2 id="主流机器人品牌"><a href="#主流机器人品牌" class="headerlink" title="主流机器人品牌"></a>主流机器人品牌</h2><ul><li>ABB</li><li>KUKA</li><li>FANUC</li><li>YASKAWA</li><li>KAWASAKI</li></ul><h2 id="编程语言概述"><a href="#编程语言概述" class="headerlink" title="编程语言概述"></a>编程语言概述</h2><ol><li>RAPID (ABB)</li><li>KRL (KUKA)</li><li>KAREL (FANUC)</li><li>INFORM (YASKAWA)</li><li>AS (KAWASAKI)</li></ol><h2 id="编程基础"><a href="#编程基础" class="headerlink" title="编程基础"></a>编程基础</h2><h3 id="坐标系"><a href="#坐标系" class="headerlink" title="坐标系"></a>坐标系</h3><ul><li>世界坐标系</li><li>工具坐标系</li><li>用户坐标系</li></ul><h3 id="运动指令"><a href="#运动指令" class="headerlink" title="运动指令"></a>运动指令</h3><ul><li>直线运动</li><li>圆弧运动</li><li>关节运动</li></ul><h3 id="程序结构"><a href="#程序结构" class="headerlink" title="程序结构"></a>程序结构</h3><ul><li>主程序</li><li>子程序</li><li>函数</li></ul><h2 id="高级编程技巧"><a href="#高级编程技巧" class="headerlink" title="高级编程技巧"></a>高级编程技巧</h2><ul><li>路径优化</li><li>碰撞检测</li><li>力控制</li><li>视觉集成</li></ul><h2 id="安全注意事项"><a href="#安全注意事项" class="headerlink" title="安全注意事项"></a>安全注意事项</h2><ul><li>工作区域划分</li><li>急停装置使用</li><li>速度限制设置</li><li>负载检测</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>掌握工业机器人编程技术对于现代制造业至关重要。通过系统学习和实践，可以充分发挥工业机器人在智能制造中的优势。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 机械手 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 机器人编程 </tag>
-            
-            <tag> 机器人语言 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>HMI触摸屏程序设计详解</title>
       <link href="/posts/article/automation/HMI/HMI%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%A6%E8%A7%A3/"/>
       <url>/posts/article/automation/HMI/HMI%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%A6%E8%A7%A3/</url>
@@ -143,25 +116,25 @@
     
     
     <entry>
-      <title>台达触摸屏在工业自动化中的应用</title>
-      <link href="/posts/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
-      <url>/posts/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+      <title>工业机器人编程指南</title>
+      <link href="/posts/article/automation/scara/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/"/>
+      <url>/posts/article/automation/scara/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97/</url>
       
-        <content type="html"><![CDATA[<h1 id="台达触摸屏在工业自动化中的应用"><a href="#台达触摸屏在工业自动化中的应用" class="headerlink" title="台达触摸屏在工业自动化中的应用"></a>台达触摸屏在工业自动化中的应用</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>在现代工业自动化系统中，人机界面（HMI）扮演着至关重要的角色。作为工业自动化领域的领先品牌，台达电子（Delta Electronics）推出的触摸屏产品以其卓越的性能和可靠性，在众多工业应用中广受好评。</p><h2 id="台达触摸屏产品概述"><a href="#台达触摸屏产品概述" class="headerlink" title="台达触摸屏产品概述"></a>台达触摸屏产品概述</h2><h3 id="产品系列"><a href="#产品系列" class="headerlink" title="产品系列"></a>产品系列</h3><p>台达触摸屏产品线丰富，主要包含以下系列：</p><table><thead><tr><th>系列</th><th>特点</th><th>适用场景</th></tr></thead><tbody><tr><td>DOP-100</td><td>入门级产品，性价比高</td><td>小型设备监控</td></tr><tr><td>DOP-B</td><td>中端产品，功能全面</td><td>中型生产线控制</td></tr><tr><td>DOP-W</td><td>高端产品，支持多语言和复杂应用</td><td>大型自动化系统</td></tr></tbody></table><h3 id="技术参数"><a href="#技术参数" class="headerlink" title="技术参数"></a>技术参数</h3><ul><li>屏幕尺寸：7”-15”</li><li>分辨率：800x480 - 1920x1080</li><li>处理器：ARM Cortex-A8</li><li>内存：128MB - 512MB</li><li>存储：256MB - 1GB</li></ul><h2 id="主要功能特点"><a href="#主要功能特点" class="headerlink" title="主要功能特点"></a>主要功能特点</h2><ol><li>高分辨率触摸屏</li><li>强大的数据处理能力</li><li>丰富的通讯接口</li><li>直观的编程软件</li><li>可靠的工业级设计</li></ol><h2 id="典型应用场景"><a href="#典型应用场景" class="headerlink" title="典型应用场景"></a>典型应用场景</h2><ul><li>生产线监控</li><li>设备状态显示</li><li>参数设置与调整</li><li>报警信息管理</li><li>数据采集与分析</li></ul><h2 id="编程与配置方法"><a href="#编程与配置方法" class="headerlink" title="编程与配置方法"></a>编程与配置方法</h2><p>台达提供DOPSoft编程软件，支持：</p><ul><li>图形化界面设计</li><li>数据标签管理</li><li>报警系统配置</li><li>历史数据记录</li><li>远程监控功能</li></ul><h2 id="维护与故障排除"><a href="#维护与故障排除" class="headerlink" title="维护与故障排除"></a>维护与故障排除</h2><p>常见问题及解决方法：</p><ol><li>触摸屏无响应：检查电源和通讯连接</li><li>显示异常：检查分辨率和刷新率设置</li><li>数据丢失：定期备份项目文件</li><li>通讯故障：检查协议设置和接线</li></ol><h2 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a>总结与展望</h2><p>台达触摸屏凭借其出色的性能和可靠性，在工业自动化领域占据重要地位。随着工业4.0的发展，台达将继续推出更多创新产品，为智能制造提供强有力的支持。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="工业机器人编程指南"><a href="#工业机器人编程指南" class="headerlink" title="工业机器人编程指南"></a>工业机器人编程指南</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>工业机器人是现代智能制造的核心设备之一。本文将详细介绍工业机器人编程的基础知识和实用技巧。</p><h2 id="主流机器人品牌"><a href="#主流机器人品牌" class="headerlink" title="主流机器人品牌"></a>主流机器人品牌</h2><ul><li>ABB</li><li>KUKA</li><li>FANUC</li><li>YASKAWA</li><li>KAWASAKI</li></ul><h2 id="编程语言概述"><a href="#编程语言概述" class="headerlink" title="编程语言概述"></a>编程语言概述</h2><ol><li>RAPID (ABB)</li><li>KRL (KUKA)</li><li>KAREL (FANUC)</li><li>INFORM (YASKAWA)</li><li>AS (KAWASAKI)</li></ol><h2 id="编程基础"><a href="#编程基础" class="headerlink" title="编程基础"></a>编程基础</h2><h3 id="坐标系"><a href="#坐标系" class="headerlink" title="坐标系"></a>坐标系</h3><ul><li>世界坐标系</li><li>工具坐标系</li><li>用户坐标系</li></ul><h3 id="运动指令"><a href="#运动指令" class="headerlink" title="运动指令"></a>运动指令</h3><ul><li>直线运动</li><li>圆弧运动</li><li>关节运动</li></ul><h3 id="程序结构"><a href="#程序结构" class="headerlink" title="程序结构"></a>程序结构</h3><ul><li>主程序</li><li>子程序</li><li>函数</li></ul><h2 id="高级编程技巧"><a href="#高级编程技巧" class="headerlink" title="高级编程技巧"></a>高级编程技巧</h2><ul><li>路径优化</li><li>碰撞检测</li><li>力控制</li><li>视觉集成</li></ul><h2 id="安全注意事项"><a href="#安全注意事项" class="headerlink" title="安全注意事项"></a>安全注意事项</h2><ul><li>工作区域划分</li><li>急停装置使用</li><li>速度限制设置</li><li>负载检测</li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>掌握工业机器人编程技术对于现代制造业至关重要。通过系统学习和实践，可以充分发挥工业机器人在智能制造中的优势。</p>]]></content>
       
       
       <categories>
           
-          <category> 触摸屏 </category>
+          <category> 机械手 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> HMI </tag>
+            <tag> 机器人编程 </tag>
             
-            <tag> 台达 </tag>
+            <tag> 机器人语言 </tag>
             
         </tags>
       
@@ -189,6 +162,33 @@
             <tag> 补偿 </tag>
             
             <tag> 色标抓取 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>台达触摸屏在工业自动化中的应用</title>
+      <link href="/posts/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
+      <url>/posts/article/automation/HMI/%E5%8F%B0%E8%BE%BE%E8%A7%A6%E6%91%B8%E5%B1%8F%E5%9C%A8%E5%B7%A5%E4%B8%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</url>
+      
+        <content type="html"><![CDATA[<h1 id="台达触摸屏在工业自动化中的应用"><a href="#台达触摸屏在工业自动化中的应用" class="headerlink" title="台达触摸屏在工业自动化中的应用"></a>台达触摸屏在工业自动化中的应用</h1><h2 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h2><p>在现代工业自动化系统中，人机界面（HMI）扮演着至关重要的角色。作为工业自动化领域的领先品牌，台达电子（Delta Electronics）推出的触摸屏产品以其卓越的性能和可靠性，在众多工业应用中广受好评。</p><h2 id="台达触摸屏产品概述"><a href="#台达触摸屏产品概述" class="headerlink" title="台达触摸屏产品概述"></a>台达触摸屏产品概述</h2><h3 id="产品系列"><a href="#产品系列" class="headerlink" title="产品系列"></a>产品系列</h3><p>台达触摸屏产品线丰富，主要包含以下系列：</p><table><thead><tr><th>系列</th><th>特点</th><th>适用场景</th></tr></thead><tbody><tr><td>DOP-100</td><td>入门级产品，性价比高</td><td>小型设备监控</td></tr><tr><td>DOP-B</td><td>中端产品，功能全面</td><td>中型生产线控制</td></tr><tr><td>DOP-W</td><td>高端产品，支持多语言和复杂应用</td><td>大型自动化系统</td></tr></tbody></table><h3 id="技术参数"><a href="#技术参数" class="headerlink" title="技术参数"></a>技术参数</h3><ul><li>屏幕尺寸：7”-15”</li><li>分辨率：800x480 - 1920x1080</li><li>处理器：ARM Cortex-A8</li><li>内存：128MB - 512MB</li><li>存储：256MB - 1GB</li></ul><h2 id="主要功能特点"><a href="#主要功能特点" class="headerlink" title="主要功能特点"></a>主要功能特点</h2><ol><li>高分辨率触摸屏</li><li>强大的数据处理能力</li><li>丰富的通讯接口</li><li>直观的编程软件</li><li>可靠的工业级设计</li></ol><h2 id="典型应用场景"><a href="#典型应用场景" class="headerlink" title="典型应用场景"></a>典型应用场景</h2><ul><li>生产线监控</li><li>设备状态显示</li><li>参数设置与调整</li><li>报警信息管理</li><li>数据采集与分析</li></ul><h2 id="编程与配置方法"><a href="#编程与配置方法" class="headerlink" title="编程与配置方法"></a>编程与配置方法</h2><p>台达提供DOPSoft编程软件，支持：</p><ul><li>图形化界面设计</li><li>数据标签管理</li><li>报警系统配置</li><li>历史数据记录</li><li>远程监控功能</li></ul><h2 id="维护与故障排除"><a href="#维护与故障排除" class="headerlink" title="维护与故障排除"></a>维护与故障排除</h2><p>常见问题及解决方法：</p><ol><li>触摸屏无响应：检查电源和通讯连接</li><li>显示异常：检查分辨率和刷新率设置</li><li>数据丢失：定期备份项目文件</li><li>通讯故障：检查协议设置和接线</li></ol><h2 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a>总结与展望</h2><p>台达触摸屏凭借其出色的性能和可靠性，在工业自动化领域占据重要地位。随着工业4.0的发展，台达将继续推出更多创新产品，为智能制造提供强有力的支持。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 触摸屏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HMI </tag>
+            
+            <tag> 台达 </tag>
             
         </tags>
       
